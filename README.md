@@ -71,10 +71,11 @@ Building systems where **intelligence meets the physical world.**
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=moosadot&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=FFFFFF&text=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=moosamubasir&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=FFFFFF&text=FFFFFF)](https://git.io/streak-stats)
 
 <br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moosadot&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&hide_border=true)](https://github.com/moosadot)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moosamubasir&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=0D1117&hide_border=true)](https://github.com/moosamubasir)
 
+</div>
 </div>
