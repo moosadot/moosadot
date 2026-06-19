@@ -1,13 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Moosa+%F0%9F%A4%96;Robotics+%C2%B7+AI+%C2%B7+Creative+Dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=9999999&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey,+I'm+Moosa+Mubasir" alt="Name" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Robotics+%C2%B7+AI+%C2%B7+Creative+Dev;ROS2+Developer;Embedded+Systems+Engineer;Three.js+Creative+Developer" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com/in/moosa-mubasir-a666b1414)
-[![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=000000)](https://www.instagram.com/m.moosaaa/)
-[![Email](https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:moosamubasir8@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge\&logo=linkedin\&logoColor=000000)](https://linkedin.com/in/moosa-mubasir-a666b1414)
+[![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge\&logo=instagram\&logoColor=000000)](https://www.instagram.com/m.moosaaa/)
+[![Email](https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge\&logo=gmail\&logoColor=000000)](mailto:moosamubasir8@gmail.com)
 
 </div>
 
@@ -25,20 +28,20 @@ Building systems where **intelligence meets the physical world.**
 
 ## WHAT I DO
 
-| Robotics & Embedded | Creative Web Dev |
-|---|---|
-| **Core Builder — Autonomous Systems** | **Builder — Immersive Experiences** |
+| Robotics & Embedded                                                                                                                                                                                 | Creative Web Dev                                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Core Builder — Autonomous Systems**                                                                                                                                                               | **Builder — Immersive Experiences**                                                                                             |
 | Designing robots that operate independently in real environments. Built with Raspberry Pi, Arduino, and ROS2 — integrating sensors, motor control, and intelligent planning into physical machines. | Crafting 3D web experiences and interactive UIs using Three.js and GSAP. I care about how things look as much as how they work. |
 
 ---
 
 ## BACKGROUND
 
-| | Experience | Focus |
-|---|---|---|
-| 🤖 | Robotics Internship | ROS2 · RPLidar · Gazebo simulation |
-| 🎓 | BCA Final Year | AI · VR · Robotics specialization |
-| 💻 | Embedded Systems | Arduino · Raspberry Pi · Motor control |
+|    | Experience          | Focus                                  |
+| -- | ------------------- | -------------------------------------- |
+| 🤖 | Robotics Internship | ROS2 · RPLidar · Gazebo simulation     |
+| 🎓 | BCA Final Year      | AI · VR · Robotics specialization      |
+| 💻 | Embedded Systems    | Arduino · Raspberry Pi · Motor control |
 
 ---
 
@@ -70,11 +73,10 @@ Building systems where **intelligence meets the physical world.**
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=moosamubasir&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=FFFFFF&text=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=moosamubasir\&hide_border=true\&background=0D1117\&ring=FFFFFF\&fire=FFFFFF\&currStreakLabel=FFFFFF\&sideLabels=FFFFFF\&dates=FFFFFF\&currStreakNum=FFFFFF\&sideNums=FFFFFF\&stroke=FFFFFF\&text=FFFFFF)](https://git.io/streak-stats)
 
 <br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moosamubasir&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=0D1117&hide_border=true)](https://github.com/moosamubasir)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moosamubasir\&show_icons=true\&bg_color=0D1117\&title_color=FFFFFF\&text_color=FFFFFF\&icon_color=FFFFFF\&border_color=0D1117\&hide_border=true)](https://github.com/moosamubasir)
 
-</div>
 </div>
