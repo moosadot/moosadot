@@ -1,8 +1,7 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1&pause=9999999&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hey,+I'm+Moosa+Mubasir+%F0%9F%A4%96" alt="Name" />
-
-  <br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1&pause=9999999&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hey,+I'm+MOOSA+MUBASIR+%E2%9A%99%EF%B8%8F" alt="Name" />
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Robotics+%C2%B7+AI+%C2%B7+Creative+Dev;ROS2+Developer;Embedded+Systems+Engineer;Three.js+Creative+Developer" alt="Typing SVG" />
 
